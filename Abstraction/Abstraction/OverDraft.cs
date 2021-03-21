@@ -22,6 +22,8 @@ namespace Abstraction
         {
             Balance = Balance + Limit + amount;
             Console.WriteLine("Your acc is credited by " +amount+ "New balance:" + Balance);
+            Transaction tr = new Transaction(this, this, amount, "Deposit");
+            base.AddTransaction(tr);
         }
         public override void Withdraw(double amount)
         {
@@ -29,6 +31,8 @@ namespace Abstraction
             {
                 Balance = Balance - amount;
                 Console.WriteLine("Your acc is debited by "+amount+ "New balance : "+ Balance);
+                Transaction tr = new Transaction(this, this, amount, "Withdraw");
+                base.AddTransaction(tr);
             }
             else
             {
@@ -44,6 +48,9 @@ namespace Abstraction
 
 
                 Console.WriteLine("You account is debited by {0} new balance {1} and credited to  acc: {2} ({3})", amount, Balance, a.AccName, a.AccNo);
+
+                Transaction tr = new Transaction(this, a, amount, "Transfer");
+                base.AddTransaction(tr);
             }
             else
             {

@@ -21,11 +21,13 @@ namespace Abstraction
             r.Deposit(500);
             r.Withdraw(200);
             r.Transfer(s, 20);
+            r.showAllTransaction();
 
             ru.ShowInfo();
             ru.Deposit(2000);
             ru.Withdraw(50);
             ru.Transfer(sh, 100);
+            ru.showAllTransaction();
 
         }
     }
