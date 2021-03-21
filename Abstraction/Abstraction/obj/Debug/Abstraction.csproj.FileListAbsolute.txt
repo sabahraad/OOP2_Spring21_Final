@@ -1,0 +1,7 @@
+E:\AIUB\2021\C#\Abstraction\Abstraction\obj\Debug\Abstraction.csprojAssemblyReference.cache
+E:\AIUB\2021\C#\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+E:\AIUB\2021\C#\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+E:\AIUB\2021\C#\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+E:\AIUB\2021\C#\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+E:\AIUB\2021\C#\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+E:\AIUB\2021\C#\Abstraction\Abstraction\obj\Debug\Abstraction.pdb
