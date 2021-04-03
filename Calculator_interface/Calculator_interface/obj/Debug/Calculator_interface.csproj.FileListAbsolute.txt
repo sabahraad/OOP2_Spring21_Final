@@ -1,0 +1,7 @@
+E:\AIUB\2021\C#_Final\Calculator_interface\Calculator_interface\bin\Debug\Calculator_interface.exe.config
+E:\AIUB\2021\C#_Final\Calculator_interface\Calculator_interface\bin\Debug\Calculator_interface.exe
+E:\AIUB\2021\C#_Final\Calculator_interface\Calculator_interface\bin\Debug\Calculator_interface.pdb
+E:\AIUB\2021\C#_Final\Calculator_interface\Calculator_interface\obj\Debug\Calculator_interface.csprojAssemblyReference.cache
+E:\AIUB\2021\C#_Final\Calculator_interface\Calculator_interface\obj\Debug\Calculator_interface.csproj.CoreCompileInputs.cache
+E:\AIUB\2021\C#_Final\Calculator_interface\Calculator_interface\obj\Debug\Calculator_interface.exe
+E:\AIUB\2021\C#_Final\Calculator_interface\Calculator_interface\obj\Debug\Calculator_interface.pdb
