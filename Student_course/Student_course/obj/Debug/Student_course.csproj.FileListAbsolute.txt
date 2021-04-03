@@ -1,0 +1,7 @@
+E:\AIUB\2021\C#_Final\Student_course\Student_course\obj\Debug\Student_course.csprojAssemblyReference.cache
+E:\AIUB\2021\C#_Final\Student_course\Student_course\obj\Debug\Student_course.csproj.CoreCompileInputs.cache
+E:\AIUB\2021\C#_Final\Student_course\Student_course\bin\Debug\Student_course.exe.config
+E:\AIUB\2021\C#_Final\Student_course\Student_course\bin\Debug\Student_course.exe
+E:\AIUB\2021\C#_Final\Student_course\Student_course\bin\Debug\Student_course.pdb
+E:\AIUB\2021\C#_Final\Student_course\Student_course\obj\Debug\Student_course.exe
+E:\AIUB\2021\C#_Final\Student_course\Student_course\obj\Debug\Student_course.pdb
