@@ -1,0 +1,7 @@
+E:\AIUB\2021\C#_Final\Radio\Radio\bin\Debug\Radio.exe.config
+E:\AIUB\2021\C#_Final\Radio\Radio\bin\Debug\Radio.exe
+E:\AIUB\2021\C#_Final\Radio\Radio\bin\Debug\Radio.pdb
+E:\AIUB\2021\C#_Final\Radio\Radio\obj\Debug\Radio.csprojAssemblyReference.cache
+E:\AIUB\2021\C#_Final\Radio\Radio\obj\Debug\Radio.csproj.CoreCompileInputs.cache
+E:\AIUB\2021\C#_Final\Radio\Radio\obj\Debug\Radio.exe
+E:\AIUB\2021\C#_Final\Radio\Radio\obj\Debug\Radio.pdb
